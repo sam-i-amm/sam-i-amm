@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sam-i-amm
+- 👀 I’m interested in coding, chess, strategy games, and enjoy innovating!
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on projects to further my education/understanding of coding or coding practices!
+- 📫 How to reach me - email: sam.garn15@gmail.com
